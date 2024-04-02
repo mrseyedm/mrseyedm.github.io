@@ -1,0 +1,149 @@
+
+body {
+background-image:url("../media/bk002.jpg");
+font-family:vazirbk;
+text-align:center;
+}
+.body {
+font-family:vazirbk;
+text-align:center;
+}
+#vazir {
+font-family: vazirbd;
+}
+#sahelb {
+font-family: SahelBlack;
+}
+#led {
+font-family: led08;
+}
+
+
+////  🔴 تیتر بالا 🔴 ///
+header {
+
+}
+	.divhead {
+	width:390px;
+	border:4px ridge green;
+	border-radius: 10px;
+	}
+	header>div>img {
+	width:380px;
+	}
+	.head-t {
+	position:absolute;
+	text-align:right;
+	margin-top:20px;
+	}
+	.head-t0 {
+	font-size:55px;
+	color: lightgreen;
+	margin-right:20px;
+	text-shadow:3px 3px 0 black, -3px -3px 0 black;
+	}
+	.head-t1 {
+	font-size:60px;
+	color: orange;
+	text-shadow:3px 3px 0 black, -3px -3px 0 black;
+	}
+	.head-t2 {
+	font-size:30px;
+	color: brown;
+	margin-right:25px;
+		text-shadow:1px 1px 0 white, -1px -1px 0 white;
+	}
+
+////  🔴 تیتر پایین 🔴 ///
+footer {
+
+}
+
+
+
+.div-time {
+width:130px;
+border:2px solid gray;
+background-color:black;
+color:yellow;
+margin-top:-10px;
+border-radius:5px;
+font-size:20px;
+position:absolute;
+margin-right:10px;
+}
+.div-date {
+width:130px;
+border:2px solid gray;
+background-color:black;
+color:yellow;
+margin-top:-10px;
+border-radius:5px;
+position:absolute;
+font-size:20px;
+margin-right:250px;
+}
+.div-day {
+width:100px;
+border:2px solid gray;
+background-color:black;
+color:white;
+margin-top:-10px;
+border-radius:5px;
+position:absolute;
+font-size:20px;
+margin-right:145px;
+}
+
+.div-fram {
+width:390px;
+border:4px ridge red;
+border-radius: 10px;
+background-image:url("../media/bg-menu3.jpg");
+}
+
+
+
+
+
+#btn-menu {
+border:1px solid black;
+font-family:SahelBlack;
+font-size:20px;
+width:120px;
+margin-bottom:5px;
+height:35px;
+}
+#btn {
+border:1px solid black;
+font-family:SahelBlack;
+font-size:30px;
+width:350px;
+margin-bottom:5px;
+margin-top:5px;
+}
+
+
+.main-fram {
+border:4px ridge gold;
+width:385px;
+border-top-right-radius:10px;
+border-top-left-radius:10px;
+margin-top:10px;
+background-color:lightyellow;
+}
+.title-fram {
+font-size:25px;
+margin-right:10px;
+text-align:right;
+color:orange
+
+}
+
+
+////  🔴 Body 🔴 ///
+.bod-fram1 {
+width:385px;
+border:3px ridge black;
+border-radius:15px;
+}

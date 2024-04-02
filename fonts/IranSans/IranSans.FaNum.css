@@ -1,0 +1,54 @@
+@font-face {
+	font-family: irsnormal;
+	font-style: normal;
+	src:url('Normal/normal.fanum.eot');
+	src:url('Normal/normal.fanum.eot?#iefix') format('embedded-opentype'),
+	url('Normal/normal.fanum.woff2') format('woff2'),
+	url('Normal/normal.fanum.woff') format('woff'),
+	url('Normal/normal.fanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: irslight;
+	font-style: normal;
+	src:url('Light/light.fanumh.eot');
+	src:url('Light/light.fanum.eot?#iefix') format('embedded-opentype'),
+	url('Light/light.fanum.woff2') format('woff2'),
+	url('Light/light.fanum.woff') format('woff'),
+	url('Light/light.fanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: irsulight;
+	font-style: normal;
+	src:url('UltraLight/ultralight.fanum.eot');
+	src:url('UltraLight/ultralight.fanum.eot?#iefix') format('embedded-opentype'),
+	url('UltraLight/ultralight.fanum.woff2') format('woff2'),
+	url('UltraLight/ultralight.fanum.woff') format('woff'),
+	url('UltraLight/ultralight.fanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: irsmedium;
+	font-style: normal;
+	src:url('Medium/medium.fanum.eot');
+	src:url('Medium/medium.fanum.eot?#iefix') format('embedded-opentype'),
+	url('Medium/medium.fanum.woff2') format('woff2'),
+	url('Medium/medium.fanum.woff') format('woff'),
+	url('Medium/medium.fanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: irsblack;
+	font-style: normal;
+	src:url('Black/black.fanum.eot');
+	src:url('Black/black.fanum.eot?#iefix') format('embedded-opentype'),
+	url('Black/black.fanum.woff2') format('woff2'),
+	url('Black/black.fanum.woff') format('woff'),
+	url('Black/black.fanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: irsbold;
+	font-style: normal;
+	src:url('Bold/bold.fanum.eot');
+	src:url('Bold/bold.fanum.eot?#iefix') format('embedded-opentype'),
+	url('Bold/bold.fanum.woff2') format('woff2'),
+	url('Bold/bold.fanum.woff') format('woff'),
+	url('Bold/bold.fanum.ttf') format('truetype');
+}
