@@ -3,7 +3,7 @@ var mytime = setInterval(
       var date = new Date();
       var seconds = date.getSeconds();
       var Minutes = date.getMinutes();
-      var Hours = date.getHours();
+      var Hours = date.getHours() + 1;
     if(seconds < 10){
       document.getElementById("ms").innerHTML = "0" + seconds;    
     }else{
