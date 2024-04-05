@@ -8,10 +8,10 @@ var xmiladi = ["1", "2", "3", "4", "21", "21", "20", "20", "20", "", "", ""]
 var xRoooz;
 var xborj;
 if(chandom >= 21){
-xRoooz = chandom -= 24;
+xRoooz = chandom -= 23;
 xborj = mh -= 3;
 }else{
-xRoooz = chandom += 13;
+xRoooz = chandom += 12;
 xborj = mh -= 2;
 }
 
