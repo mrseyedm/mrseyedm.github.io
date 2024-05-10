@@ -7,9 +7,9 @@ var maah = ["فـروردین", "اردیبهشت", "خـــرداد", "تیـ�
 var xmiladi = ["1", "2", "3", "4", "21", "21", "20", "20", "20", "", "", ""]
 var xRoooz;
 var xborj;
-if(chandom >= 21){
-xRoooz = chandom -= 23;
-xborj = mh -= 3;
+if(chandom >= 20){
+xRoooz = chandom -= 19;
+xborj = mh -= 1;
 }else{
 xRoooz = chandom += 12;
 xborj = mh -= 2;
